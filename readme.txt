@@ -4,3 +4,5 @@ Git has a mutable index called stage.
 What do you learn from it?
 What's up.
 Creating a new branch is quick and simple.
+
+now add merge.
